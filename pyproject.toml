@@ -1,0 +1,11 @@
+[project]
+name = "brew-dependency-analyzer"
+version = "0.1.0"
+description = "utility for macOS that helps you understand your Homebrew package installations and their dependency relationships"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "networkx>=3.6.1",
+    "pydot>=4.0.1",
+    "rich>=14.2.0",
+]

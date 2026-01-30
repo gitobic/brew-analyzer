@@ -1,4 +1,4 @@
-# Homebrew Dependency Analyzer
+# brew.sh Dependency Analyzer
 
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-macOS-lightgrey.svg)
